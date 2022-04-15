@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>PHP Project &#8211; khabirshuhada</title>
-	<atom:link href="https://khabirshuhada.github.io/portfolio/category/php-project/feed/" rel="self" type="application/rss+xml" />
+	<title>Design &#8211; khabirshuhada</title>
+	<atom:link href="https://khabirshuhada.github.io/portfolio/category/design/feed/" rel="self" type="application/rss+xml" />
 	<link>https://khabirshuhada.github.io/portfolio</link>
 	<description>Portfolio</description>
-	<lastBuildDate>Fri, 15 Apr 2022 05:53:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Apr 2022 08:37:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,19 +22,19 @@
 
 <image>
 	<url>https://khabirshuhada.github.io/portfolio/wp-content/uploads/2022/04/cropped-sktechwork-32x32.png</url>
-	<title>PHP Project &#8211; khabirshuhada</title>
+	<title>Design &#8211; khabirshuhada</title>
 	<link>https://khabirshuhada.github.io/portfolio</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Asia Car Rental</title>
-		<link>https://khabirshuhada.github.io/portfolio/asia-car-rental/</link>
+		<title>Seagma</title>
+		<link>https://khabirshuhada.github.io/portfolio/seagma/</link>
 		
 		<dc:creator><![CDATA[Shuhada]]></dc:creator>
-		<pubDate>Fri, 06 Apr 2018 10:36:29 +0000</pubDate>
-				<category><![CDATA[PHP Project]]></category>
-		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=105</guid>
+		<pubDate>Fri, 15 Apr 2022 06:02:51 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=358</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
@@ -43,7 +43,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625935ec468ab" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625935ea3b005" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -58,9 +58,9 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625935ec47584" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625935ea3bc2e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625935ec47778" class="info-list-w-icon">
+<div id="info-list-625935ea3be1a" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_2953bba4fd173435090a54c788c06e5a" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -68,7 +68,7 @@
 		                		    </div>
 		    <div class="ci-text">
 		        <h4>About</h4>
-		        <p>Asia Leisure &amp; Car Rental provides services for renting different size of car on any needs within Malaysia</p>
+		        <p>SEAGMA 2020 Scientific Conference 5th Scientific Meeting Website</p>
 		    </div>
 		</div>
 					<div id="info_block_with_icon_687fdf48692a4bdf03a1ba268a1873a4" class="info-block-w-icon" data-color="#888">
@@ -86,9 +86,9 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625935ec47915" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625935ea3bfb6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625935ec47a86" class="info-list-w-icon">
+<div id="info-list-625935ea3c121" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_7e7b8e383bc5b8b260e4172a2a27c815" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -105,7 +105,7 @@
 		                		    </div>
 		    <div class="ci-text">
 		        <h4>Role</h4>
-		        <p>System Support/Add New Module</p>
+		        <p>System Support</p>
 		    </div>
 		</div>
 	</div>

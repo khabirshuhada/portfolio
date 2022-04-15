@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>khabirshuhada</title>
+	<atom:link href="https://khabirshuhada.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khabirshuhada.github.io/portfolio</link>
+	<description>Portfolio</description>
+	<lastBuildDate>Thu, 14 Apr 2022 09:50:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://khabirshuhada.github.io/portfolio/wp-content/uploads/2022/04/cropped-sktechwork-32x32.png</url>
+	<title>khabirshuhada</title>
+	<link>https://khabirshuhada.github.io/portfolio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Asia Car Rental</title>
+		<link>https://khabirshuhada.github.io/portfolio/asia-car-rental/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2018 10:36:29 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=105</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-4 ">
+    <div id="col_inner_id-6258e3a50f1ec" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+    
+        <div id="#single_image_4ba9e7a6182c5c69254b7415d79dc12b" class="single-image ">
+            <span class="single-image-wrap" >
+                <img src="https://khabirshuhada.github.io/portfolio/wp-content/uploads/2018/04/acr.png" alt="image">
+            </span>
+        </div>
+
+    
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-4 ">
+    <div id="col_inner_id-6258e3a50f841" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+    
+        <div id="#single_image_b052b866a936d2bba11247d4420eebac" class="single-image ">
+            <span class="single-image-wrap" >
+                <img src="https://khabirshuhada.github.io/portfolio/wp-content/uploads/2022/04/image-069.png" alt="image">
+            </span>
+        </div>
+
+    
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-4 ">
+    <div id="col_inner_id-6258e3a50fcb7" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+    
+        <div id="#single_image_8e9779367e93e1a004dc92b4887ba970" class="single-image ">
+            <span class="single-image-wrap" >
+                <img src="https://khabirshuhada.github.io/portfolio/wp-content/uploads/2022/04/image-072.png" alt="image">
+            </span>
+        </div>
+
+    
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-6258e3a51029e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+<div id="info-list-6258e3a510572" class="info-list">
+			<div class="block-title info-list-title">
+	      <h3>Description</h3>
+	    </div>
+	
+	<ul class="fw-info-list info-list">
+	  				<li><span class="title">About</span>
+				<span class="value">
+											Asia Leisure &amp; Car Rental provides services for renting different size of car on any needs within  Malaysia									</span>
+			</li>
+					<li><span class="title">Tool(S)</span>
+				<span class="value">
+											Visual Android Studio									</span>
+			</li>
+					<li><span class="title">Language</span>
+				<span class="value">
+											 PHP, Javascript, Ajax									</span>
+			</li>
+					<li><span class="title">Role</span>
+				<span class="value">
+											System Support/Add New Module									</span>
+			</li>
+			</ul>
+</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

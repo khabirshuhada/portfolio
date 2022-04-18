@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; khabirshuhada</title>
+	<atom:link href="https://khabirshuhada.github.io/portfolio/category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khabirshuhada.github.io/portfolio</link>
+	<description>Portfolio</description>
+	<lastBuildDate>Mon, 18 Apr 2022 05:37:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://khabirshuhada.github.io/portfolio/wp-content/uploads/2022/04/cropped-sktechwork-32x32.png</url>
+	<title>Design &#8211; khabirshuhada</title>
+	<link>https://khabirshuhada.github.io/portfolio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Design ( Intern Project )</title>
+		<link>https://khabirshuhada.github.io/portfolio/design-intern-project/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2022 05:26:07 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=494</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625cf9c748adf" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625cf9c74962a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625cf9c749913" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_2953bba4fd173435090a54c788c06e5a" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p>Design event banner for Hospital Taiping as follow event --&gt; Selamat Hari Malaysia/Hospital Kluster Perak Utara/Hari Keputeraan Sultan Perak/Salam Maulidur Rasul</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_687fdf48692a4bdf03a1ba268a1873a4" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Adobe Photoshop, Adobe Illustrator </p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625cf9c749afd" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625cf9c749c79" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_7f93c9470877e708e7faffbc32481474" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>Designer</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

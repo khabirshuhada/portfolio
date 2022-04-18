@@ -12,7 +12,7 @@
 	<atom:link href="https://khabirshuhada.github.io/portfolio/category/php-project/feed/" rel="self" type="application/rss+xml" />
 	<link>https://khabirshuhada.github.io/portfolio</link>
 	<description>Portfolio</description>
-	<lastBuildDate>Mon, 18 Apr 2022 03:42:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Apr 2022 04:15:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,13 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>iCampus</title>
-		<link>https://khabirshuhada.github.io/portfolio/icampus/</link>
+		<title>Staff Directory System (Intern Project)</title>
+		<link>https://khabirshuhada.github.io/portfolio/staff-directory-system-intern-project/</link>
 		
 		<dc:creator><![CDATA[Shuhada]]></dc:creator>
-		<pubDate>Mon, 18 Apr 2022 03:32:49 +0000</pubDate>
+		<pubDate>Mon, 18 Apr 2022 04:13:18 +0000</pubDate>
 				<category><![CDATA[PHP Project]]></category>
-		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=414</guid>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=429</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
@@ -43,7 +43,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625ce18a42390" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c1541ad" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -58,9 +58,9 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a42d33" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c154c5e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a42f22" class="info-list-w-icon">
+<div id="info-list-625cf9c154e48" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_2953bba4fd173435090a54c788c06e5a" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -68,7 +68,7 @@
 		                		    </div>
 		    <div class="ci-text">
 		        <h4>About</h4>
-		        <p>Student Attendance System </p>
+		        <p>An application created to help the user find the detail information of staff in the hospital Taiping </p>
 		    </div>
 		</div>
 					<div id="info_block_with_icon_687fdf48692a4bdf03a1ba268a1873a4" class="info-block-w-icon" data-color="#888">
@@ -86,9 +86,9 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a430c6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c154fe5" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4323c" class="info-list-w-icon">
+<div id="info-list-625cf9c155153" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_7e7b8e383bc5b8b260e4172a2a27c815" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -100,6 +100,194 @@
 		    </div>
 		</div>
 					<div id="info_block_with_icon_7f93c9470877e708e7faffbc32481474" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>Add New Module / Fix Error / Database data</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>E-Aduan ICT (Intern Project)</title>
+		<link>https://khabirshuhada.github.io/portfolio/e-aduan-ict-intern-project/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2022 04:04:50 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=423</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625cf9c155a90" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625cf9c1562b5" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625cf9c156431" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_83040805bf915223752977e118281933" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p> An application created to help the user make complaint that related to software, hardware, network or others problem to the IT Unit</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_d81ddc8720eede2a4e35d28ee07aee98" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Visual Android Studio</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625cf9c1565c7" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625cf9c15672b" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_6f26e7d7f11956aecb2f0e5da1a7fef2" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-shortcode"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Language</h4>
+		        <p> PHP, Javascript, Ajax</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_215c62eb9784ba867d1a5c1e0430d161" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>Add New Function/Modules-Report(Month/Year/Category) </p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iCampus</title>
+		<link>https://khabirshuhada.github.io/portfolio/icampus/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2022 03:32:49 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=414</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625cf9c15702e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625cf9c15785a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625cf9c1579dd" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_3d78d73d20bf03d6e7815333454d5d67" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p>Student Attendance System </p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_e90966abd106ea040f710cd0770bf6f0" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Visual Android Studio</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625cf9c157b70" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625cf9c157cd7" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_8d77a0e258f351b98d23f156580d7833" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-shortcode"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Language</h4>
+		        <p> PHP, Javascript, Ajax</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_bcb2127895d427e3157fbf93fb975008" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -137,7 +325,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625ce18a43c1a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c1587ea" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -152,11 +340,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a44cc1" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15903a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a44e67" class="info-list-w-icon">
+<div id="info-list-625cf9c1591b6" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_eefc9b62ce99ef4b479bca0a08a305d5" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_3ea4b1c66462c8a4ce28a0d946aa047d" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -165,7 +353,7 @@
 		        <p>Website for Poilam Alumni to donate money to their school</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_0ade25d48eafeaf4fcb65c26c7b64332" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_a3ce9e1ffa6a799a7d7ac524d656a28f" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -180,11 +368,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a4500d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c159349" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4519e" class="info-list-w-icon">
+<div id="info-list-625cf9c1594ab" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_477d96d82c19593adb922ff4a54ed075" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_edcd877ad7a99402b3b5882826c06955" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -193,7 +381,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_7c082a11610d64cda15e9a9250380d67" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_2e7dbc0ff2030eb07634461bb1d049e9" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -231,7 +419,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625ce18a45b49" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c159dd0" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -246,11 +434,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a46393" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15a607" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a46515" class="info-list-w-icon">
+<div id="info-list-625cf9c15a780" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_a422b25ddd2bd63a2bc4b5de4eebeaa6" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_73b7084792ade4c12c9e242e19b8f14d" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -259,7 +447,7 @@
 		        <p>PMW specializes in manufacturing of Pre-stressed Spun Concrete Pole &amp; Pile since its establishment</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_2f5f588156eb159e529fb330e220f559" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_a7260bb33060aac24199604d78c82cb3" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -274,11 +462,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a466c3" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15a913" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4683c" class="info-list-w-icon">
+<div id="info-list-625cf9c15aa76" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_53fcbcdf5c241a84c45a75e3b9f2d8bf" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_ca2a4cdb75845e4255becda987f7bcb1" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -287,7 +475,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_3d8fa8623b08d6ca45eb80774eac082a" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_ecb298f5c1c2d54613b1bcf44b5262af" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -325,7 +513,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625ce18a47371" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15b38e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -340,11 +528,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a47dfe" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15bc38" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a48174" class="info-list-w-icon">
+<div id="info-list-625cf9c15bdb2" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_39c32d0fafa8ce6d95451f7de6e2a1da" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_21b1017654830de98ab20c56f196f68c" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -353,7 +541,7 @@
 		        <p>Talento organizes various teachers training workshop to benefit early years practitioners in upgrading their knowledge and skills</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_ee60594ea823d150b471a6db782fd554" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_5df15802e1d25bbef86553913d2058a8" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -368,11 +556,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a48533" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15bf46" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a487d2" class="info-list-w-icon">
+<div id="info-list-625cf9c15c0a8" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_602dd7442c433f05b9a2545e1901bcac" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_0fbe0163a4b021fdee93569b68265f86" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -381,7 +569,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_7551ba47a485fc6854bfe59da924cc4a" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_ecd46bc83aa40a92d8e6de0ea05c027c" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -419,7 +607,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625ce18a491f5" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15cc44" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -434,11 +622,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a49a4c" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15d48b" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a49bf5" class="info-list-w-icon">
+<div id="info-list-625cf9c15d606" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_6506ae4d68510d8ec7ea3ad79fa11f71" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_883cb75a8535bb5ae92d065b2defba78" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -448,7 +636,7 @@
 </p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_694df7cd493de64edc6acc5811b1aff2" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_8f226e640a48a8305957227ed2a79a6e" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -463,11 +651,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a49db7" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15d7a2" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a49f69" class="info-list-w-icon">
+<div id="info-list-625cf9c15d906" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_f5193fb7e33721026a03d6e7936e6db1" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_b78bbfd7a20828d0410050eeedcb97ac" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -476,7 +664,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_590b3d2f1cfa7eaff1d8de5d16f5b8f7" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_78fbb814a6ac6632ee55acaa14be3035" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -514,7 +702,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625ce18a4a8fb" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15e2bb" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -529,11 +717,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a4b1d6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15eacd" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4b36c" class="info-list-w-icon">
+<div id="info-list-625cf9c15ec5b" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_502cc74151fe54e3aba2f8f8c94077ab" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_745e931b1b6934366ea8e8864085f897" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -542,7 +730,7 @@
 		        <p>First Food Distribution (M) Sdn Bhd is committed to supplying our customers with the most comprehensive range of food supplies in the market</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_110b57b9373fd564cdf50cdaaf52eba8" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_1f4b565c1a93f1e59b19478072860021" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -557,11 +745,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a4b538" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15edf8" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4b6a9" class="info-list-w-icon">
+<div id="info-list-625cf9c15ef8b" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_73d4665c6f21e683d26218f440bd117b" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_4a245ef634abaea4379c0790fe6c8e1c" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -570,7 +758,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_e01647854a3ca9260217e3280623d2e3" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_bd32debc69f5c5a6444e20d06824053d" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -608,7 +796,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625ce18a4c277" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c15f895" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -623,11 +811,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a4cd6d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c160247" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4cf94" class="info-list-w-icon">
+<div id="info-list-625cf9c1603be" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_9c4ddabc7257a249738d8e624746fc22" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_f155ffe76e1377fbf31d930b416d202f" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -636,7 +824,7 @@
 		        <p>SEAGMA 2020 Scientific Conference 5th Scientific Meeting Website</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_cdb54c1e596f93e5602fa0728a29e40d" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_d9a7ac8a7b921854cdaa6a7109e465a2" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -651,11 +839,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a4d1e0" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c160554" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4d3d4" class="info-list-w-icon">
+<div id="info-list-625cf9c1606b5" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_149d64fd11892504e4ecd3a079bea8ac" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_b3f2635c1c47eb3dbab128a85717ae83" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -664,7 +852,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_2c605230a73b8a08759a807e2c27d5a9" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_35bcfba96085fc30ddbeeb649da8671e" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -702,7 +890,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625ce18a4dffe" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c161160" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -717,11 +905,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a4e85d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c161b28" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4e9dd" class="info-list-w-icon">
+<div id="info-list-625cf9c161ca4" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_65c5f89df0709df4f9c5c1c73bf95f6a" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_1006bafea23aae972462feeb7a43fa50" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -730,7 +918,7 @@
 		        <p>Asia Leisure &amp; Car Rental provides services for renting different size of car on any needs within Malaysia</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_6d8dfa0495470053078d21b6ea729d37" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_53e2538f330201421cf54b14febaa22d" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -745,11 +933,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625ce18a4eb99" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625cf9c161e38" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625ce18a4ed25" class="info-list-w-icon">
+<div id="info-list-625cf9c161f99" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_2efdc851f7bd9edd079acf07a71de90c" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_c42b5b71d91e541e36384cee1309cc65" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -758,7 +946,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_5da4988cc002c2fbbbd4453db576ddda" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_3a93506319e4e9b5312bf39722d7e593" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>

@@ -12,7 +12,7 @@
 	<atom:link href="https://khabirshuhada.github.io/portfolio/category/php-project/feed/" rel="self" type="application/rss+xml" />
 	<link>https://khabirshuhada.github.io/portfolio</link>
 	<description>Portfolio</description>
-	<lastBuildDate>Mon, 18 Apr 2022 01:39:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Apr 2022 03:42:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,13 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Seagma</title>
-		<link>https://khabirshuhada.github.io/portfolio/seagma/</link>
+		<title>iCampus</title>
+		<link>https://khabirshuhada.github.io/portfolio/icampus/</link>
 		
 		<dc:creator><![CDATA[Shuhada]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2022 06:02:51 +0000</pubDate>
+		<pubDate>Mon, 18 Apr 2022 03:32:49 +0000</pubDate>
 				<category><![CDATA[PHP Project]]></category>
-		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=358</guid>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=414</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
@@ -43,7 +43,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cc48988846" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625ce18a42390" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -58,9 +58,9 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cc489893e4" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625ce18a42d33" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cc489895cb" class="info-list-w-icon">
+<div id="info-list-625ce18a42f22" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_2953bba4fd173435090a54c788c06e5a" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -68,7 +68,7 @@
 		                		    </div>
 		    <div class="ci-text">
 		        <h4>About</h4>
-		        <p>SEAGMA 2020 Scientific Conference 5th Scientific Meeting Website</p>
+		        <p>Student Attendance System </p>
 		    </div>
 		</div>
 					<div id="info_block_with_icon_687fdf48692a4bdf03a1ba268a1873a4" class="info-block-w-icon" data-color="#888">
@@ -86,9 +86,9 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cc48989760" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625ce18a430c6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cc489898c9" class="info-list-w-icon">
+<div id="info-list-625ce18a4323c" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_7e7b8e383bc5b8b260e4172a2a27c815" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -100,6 +100,571 @@
 		    </div>
 		</div>
 					<div id="info_block_with_icon_7f93c9470877e708e7faffbc32481474" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>System Developer</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Poilam Alumni Donate</title>
+		<link>https://khabirshuhada.github.io/portfolio/poilam-alumni-donate/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2022 03:27:56 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=409</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625ce18a43c1a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a44cc1" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a44e67" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_eefc9b62ce99ef4b479bca0a08a305d5" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p>Website for Poilam Alumni to donate money to their school</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_0ade25d48eafeaf4fcb65c26c7b64332" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Visual Android Studio</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a4500d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a4519e" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_477d96d82c19593adb922ff4a54ed075" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-shortcode"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Language</h4>
+		        <p> PHP, Javascript, Ajax</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_7c082a11610d64cda15e9a9250380d67" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>System Developer</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PMW Industries</title>
+		<link>https://khabirshuhada.github.io/portfolio/pmw-industries/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2022 03:20:35 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=401</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625ce18a45b49" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a46393" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a46515" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_a422b25ddd2bd63a2bc4b5de4eebeaa6" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p>PMW specializes in manufacturing of Pre-stressed Spun Concrete Pole &amp; Pile since its establishment</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_2f5f588156eb159e529fb330e220f559" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Visual Android Studio</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a466c3" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a4683c" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_53fcbcdf5c241a84c45a75e3b9f2d8bf" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-shortcode"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Language</h4>
+		        <p> PHP, Javascript, Ajax</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_3d8fa8623b08d6ca45eb80774eac082a" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>System Support</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Talento</title>
+		<link>https://khabirshuhada.github.io/portfolio/talento/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2022 02:50:12 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=391</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625ce18a47371" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a47dfe" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a48174" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_39c32d0fafa8ce6d95451f7de6e2a1da" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p>Talento organizes various teachers training workshop to benefit early years practitioners in upgrading their knowledge and skills</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_ee60594ea823d150b471a6db782fd554" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Visual Android Studio</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a48533" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a487d2" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_602dd7442c433f05b9a2545e1901bcac" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-shortcode"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Language</h4>
+		        <p> PHP, Javascript, Ajax</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_7551ba47a485fc6854bfe59da924cc4a" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>System Support</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Winabumi</title>
+		<link>https://khabirshuhada.github.io/portfolio/winabumi/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2022 02:22:21 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=385</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625ce18a491f5" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a49a4c" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a49bf5" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_6506ae4d68510d8ec7ea3ad79fa11f71" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p>A concrete pole and pile manufacturer located in Sabah, which providing elegance and durable products to cater Sabah rapid development
+</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_694df7cd493de64edc6acc5811b1aff2" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Visual Android Studio</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a49db7" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a49f69" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_f5193fb7e33721026a03d6e7936e6db1" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-shortcode"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Language</h4>
+		        <p> PHP, Javascript, Ajax</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_590b3d2f1cfa7eaff1d8de5d16f5b8f7" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>System Support</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>First Food</title>
+		<link>https://khabirshuhada.github.io/portfolio/first-food/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2022 02:14:21 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=377</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625ce18a4a8fb" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a4b1d6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a4b36c" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_502cc74151fe54e3aba2f8f8c94077ab" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p>First Food Distribution (M) Sdn Bhd is committed to supplying our customers with the most comprehensive range of food supplies in the market</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_110b57b9373fd564cdf50cdaaf52eba8" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Visual Android Studio</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a4b538" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a4b6a9" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_73d4665c6f21e683d26218f440bd117b" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-shortcode"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Language</h4>
+		        <p> PHP, Javascript, Ajax</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_e01647854a3ca9260217e3280623d2e3" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-lightbulb-o"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Role</h4>
+		        <p>System Support</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Seagma</title>
+		<link>https://khabirshuhada.github.io/portfolio/seagma/</link>
+		
+		<dc:creator><![CDATA[Shuhada]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2022 06:02:51 +0000</pubDate>
+				<category><![CDATA[PHP Project]]></category>
+		<guid isPermaLink="false">https://khabirshuhada.github.io/portfolio/?p=358</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_id-625ce18a4c277" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		<p></p>
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h3>Description<span></span></h3>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a4cd6d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a4cf94" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_9c4ddabc7257a249738d8e624746fc22" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="fa fa-info-circle"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>About</h4>
+		        <p>SEAGMA 2020 Scientific Conference 5th Scientific Meeting Website</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_cdb54c1e596f93e5602fa0728a29e40d" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-hammer"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Tool(S)</h4>
+		        <p>Visual Android Studio</p>
+		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_id-625ce18a4d1e0" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+		
+<div id="info-list-625ce18a4d3d4" class="info-list-w-icon">
+	
+					<div id="info_block_with_icon_149d64fd11892504e4ecd3a079bea8ac" class="info-block-w-icon" data-color="#888">
+				    <div class="ci-icon">
+		        		        	                        <i class="dashicons dashicons-shortcode"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Language</h4>
+		        <p> PHP, Javascript, Ajax</p>
+		    </div>
+		</div>
+					<div id="info_block_with_icon_2c605230a73b8a08759a807e2c27d5a9" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -137,7 +702,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cc4898a696" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625ce18a4dffe" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -152,11 +717,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cc4898b262" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625ce18a4e85d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cc4898b3e0" class="info-list-w-icon">
+<div id="info-list-625ce18a4e9dd" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_9d829954d19d76b68576049735fd119a" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_65c5f89df0709df4f9c5c1c73bf95f6a" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -165,7 +730,7 @@
 		        <p>Asia Leisure &amp; Car Rental provides services for renting different size of car on any needs within Malaysia</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_33e720c10e1e7309b43f7cf2e6b42bdc" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_6d8dfa0495470053078d21b6ea729d37" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -180,11 +745,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cc4898b57a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625ce18a4eb99" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cc4898b6ea" class="info-list-w-icon">
+<div id="info-list-625ce18a4ed25" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_150cc8ae3b78cf3c599f10842fdc0d0e" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_2efdc851f7bd9edd079acf07a71de90c" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -193,7 +758,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_ccfa055acfdda10a57113dc14d244d10" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_5da4988cc002c2fbbbd4453db576ddda" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>

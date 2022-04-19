@@ -12,7 +12,7 @@
 	<atom:link href="https://khabirshuhada.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://khabirshuhada.github.io/portfolio</link>
 	<description>Portfolio</description>
-	<lastBuildDate>Mon, 18 Apr 2022 05:37:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Apr 2022 08:57:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -43,7 +43,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb274825f" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95129b" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -58,9 +58,9 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb2748c3d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d951de0" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb2748e45" class="info-list-w-icon">
+<div id="info-list-625e79d952091" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_2953bba4fd173435090a54c788c06e5a" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -86,9 +86,9 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb2748ff2" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95230b" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb2749162" class="info-list-w-icon">
+<div id="info-list-625e79d95253d" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_7f93c9470877e708e7faffbc32481474" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -128,7 +128,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb2749a8a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d9532e0" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -143,11 +143,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb274a4ae" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d953c1f" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb274a639" class="info-list-w-icon">
+<div id="info-list-625e79d953dcd" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_8c3d8fe4ea727cefa424073f32080480" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_6fee21d664f770799ec55bdc4e1d0c8f" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -156,7 +156,7 @@
 		        <p>A desktop application created to help the user to view the details of the homestay and make reservation for a particular homestay</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_addcc0805fa8d3af3e6926e230f2dbbc" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_85d201620444664773729e5adf0938db" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -171,9 +171,9 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb274a7df" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d953f7a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb274a95a" class="info-list-w-icon">
+<div id="info-list-625e79d9540f0" class="info-list-w-icon">
 	
 					<div id="info_block_with_icon_7e7b8e383bc5b8b260e4172a2a27c815" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
@@ -184,7 +184,7 @@
 		        <p>Java,OOP</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_aaebe91132914990d89bdaff7bbf35ab" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_d4f1a790a6c4b1f7b557f0fb63443b07" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -222,7 +222,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb274b2a6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d954a59" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -237,11 +237,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb274badd" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d9552c4" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb274bc6b" class="info-list-w-icon">
+<div id="info-list-625e79d955463" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_1245b206effa9764168cfa9d0b097c71" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_9166854578f3f5a8b2099222389c9011" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -250,7 +250,7 @@
 		        <p>A desktop application created to help the Hal Ehwal Akademik department of UiTM Jasin to add and manage room reservation for tutor classes, lectures and other events </p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_cfe1949518b7ef3b7f83283a3c1d2c7d" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_2980e5a4f73f030d49aa9f0b29bcb706" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -265,11 +265,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb274be05" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d955720" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb274bf6f" class="info-list-w-icon">
+<div id="info-list-625e79d95594c" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_348b4e25dc619d715669a3abd42216a7" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_31f40463905c3ec6a3fbe54e70ef0a8c" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -278,7 +278,7 @@
 		        <p>Java, PHP,CSS,HTML</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_2e05f29753457f6cb889c656033c206e" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_46e83129adf4e9a7b6b9bc4d97462e99" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -316,7 +316,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb274ca42" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d956478" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -331,11 +331,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb274d2cd" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d956cbc" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb274d4d7" class="info-list-w-icon">
+<div id="info-list-625e79d956e43" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_248c899fe5d3f063cba4eb913ac5a838" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_99a62c1e251762c8899d7b203523efc1" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -344,7 +344,7 @@
 		        <p>A mobile application that easier the future pilgrims to search their suitable package of agent to perform umrah</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_e6198c0edb0daab281c2188b3206ea40" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_497562c8a409a024e3e0fd19f17eec57" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -359,11 +359,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb274d6b9" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d956fe2" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb274d845" class="info-list-w-icon">
+<div id="info-list-625e79d95714f" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_9eac0c959aeceebeb909bde4ca27019f" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_9edb7e583566795deceb3597e1a0182d" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -372,7 +372,7 @@
 		        <p>Java, PHP,CSS,HTML</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_f040a2b9f3cde6e24683a8f3ce8e47e5" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_8b6536bb12792c919abff599d9bbf4fc" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -410,7 +410,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb274e347" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d957a51" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -425,20 +425,20 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb274ebd6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95827e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb274edc5" class="info-list-w-icon">
+<div id="info-list-625e79d958408" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_fad099e2a2cb7da63a26285ff9f11738" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_61184c80053c41fcc3010ac0f78d7bcb" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
 		    <div class="ci-text">
 		        <h4>About</h4>
-		        <p>Malaysian Paediatric Endocrine &amp; Diabetes Group) Website</p>
+		        <p>This WordPress project focuses on distributors of medical and surgical products supplies in Malaysia. Through this website, the client can order a variety of products such as disposable bed linen, hygiene Isolation Gown and many other product.</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_a400b30ef1805d47a19a67ae5ca9bb1d" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_a4f347457b7f5fe0ecc9c1a86be5ad8c" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -453,11 +453,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb274f019" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d958598" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb274f267" class="info-list-w-icon">
+<div id="info-list-625e79d9586fd" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_3b882b7cfd9464a853467893e8c85175" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_fdd9aac3b2443fbb635b187a944a2f1e" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -466,7 +466,7 @@
 		        <p> PHP</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_80997cd680b766ec2443cec46571652a" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_9c23df39bd1adf7cb93a2676021181dc" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -504,7 +504,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb274fdef" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95902d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -519,11 +519,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb2750912" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d959901" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb2750aa9" class="info-list-w-icon">
+<div id="info-list-625e79d959a7e" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_3676a9084967fb962dcbfc85bcc2ccae" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_b83a09d56ab4140406e1309682e4fe96" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -532,7 +532,7 @@
 		        <p>Malaysian Paediatric Endocrine &amp; Diabetes Group) Website</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_36d3e867f22093a40e08edf00b346b88" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_be267f995146d3019c7b8a685d148d2b" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -547,11 +547,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb2750c43" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d959cbf" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb2750da8" class="info-list-w-icon">
+<div id="info-list-625e79d959e6f" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_21d87977f0e61d300cdef5a9f62561e9" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_c5c1ac13c51e9cf88b7e10d422fdd0d5" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -560,7 +560,7 @@
 		        <p> PHP</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_9a17af4dbebcc125ffd69ce4965dc814" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_bd299ef92cd270011e6d089a91560034" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -598,7 +598,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb2751793" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95a7e4" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -613,11 +613,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb275209e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95b01c" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb275223b" class="info-list-w-icon">
+<div id="info-list-625e79d95b199" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_b93a8ff4fc59307127afab874bfa9fe4" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_be5bba3b842583560df6ce541600a728" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -626,7 +626,7 @@
 		        <p>The main aim of the society is to promote public education on hypertension, to help towards optimum control of hypertension and encouraging research and publication towards better care in the management of hypertension</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_9e034be3a806bcbec7749e25807133b2" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_97fc499ff99b883954dfcda74ea565c6" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -641,11 +641,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb275248d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95b32d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb275268f" class="info-list-w-icon">
+<div id="info-list-625e79d95b48e" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_f677b5137c3c837c7626c99d3d0bbaae" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_4b22c02b1228de7f63390a737166b307" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -654,7 +654,7 @@
 		        <p> PHP</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_1a0d6a793f82960e246744e976fba9eb" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_2ab47d4c531821356defe01c28b991bd" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -692,7 +692,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb275308c" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95be70" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -707,11 +707,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb2753ae9" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95c8ea" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb2753c63" class="info-list-w-icon">
+<div id="info-list-625e79d95ca66" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_28823c2709f788a1671855b87c16555a" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_823d09fa7a22fd2a9c52cb054f59e03b" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -721,7 +721,7 @@
 </p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_d002710ab07f49790734db16e79bfd84" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_9f7233ea8e041ef74c51e50e465925db" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -736,11 +736,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb2753dfe" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95cbfa" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb2753f6b" class="info-list-w-icon">
+<div id="info-list-625e79d95cd5d" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_556722251f7f5bc7c4ff55a51582d3ad" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_877cea11e602b0041fded3e955de962e" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -749,7 +749,7 @@
 		        <p> PHP</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_2bce4fca750fe71ebee5578cad10ad86" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_f77be33492c4e177f963ba5271ff1983" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -787,7 +787,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb2754dac" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95d70a" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -802,11 +802,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb275583d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95e14e" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb27559bd" class="info-list-w-icon">
+<div id="info-list-625e79d95e2d2" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_a404c37b78cd3629846d4a584d6f0597" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_242d3f0df31f7587fc562350ef04e2f1" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -816,7 +816,7 @@
 </p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_9300dd147077052b8cded3f5993e202e" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_1ef6457df7e78be2a2f50d9904e1a03d" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -831,11 +831,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb2755b51" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95e466" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb2755cb8" class="info-list-w-icon">
+<div id="info-list-625e79d95e5cc" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_665106a5c3ac79cd340130738c149cf5" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_b57def090d2f827b40c7efb63e2ae4ad" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -844,7 +844,7 @@
 		        <p> PHP</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_8132e42ec17ec1b143f3846c849546b1" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_5f63cab4e64320345cefce71e9af4dde" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
@@ -882,7 +882,7 @@
 	
 
 <div class=" col-xs-12 col-sm-12 ">
-    <div id="col_inner_id-625cfb2756911" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95eed7" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		<p></p>
 	<div class="fw-divider-space" style="padding-top: 50px;"></div>
 
@@ -897,11 +897,11 @@
 	
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb27572d3" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95f84d" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb275745d" class="info-list-w-icon">
+<div id="info-list-625e79d95f9de" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_b30be0af7611cd68c50659608df55d4a" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_1d8db15480987d25ca9827c17b41e875" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-info-circle"></i>
 		                		    </div>
@@ -910,7 +910,7 @@
 		        <p>An application created to help the user find the detail information of staff in the hospital Taiping </p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_56f3debf373d351f58cc25d256480299" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_932acde70dd5c9d576e34f75408b26ea" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-hammer"></i>
 		                		    </div>
@@ -925,11 +925,11 @@
 
 
 <div class=" col-xs-12 col-sm-6 ">
-    <div id="col_inner_id-625cfb27575f2" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    <div id="col_inner_id-625e79d95fb79" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
 		
-<div id="info-list-625cfb2757759" class="info-list-w-icon">
+<div id="info-list-625e79d95fcdf" class="info-list-w-icon">
 	
-					<div id="info_block_with_icon_53b841bac62c1b16f7b6614ccbdca7ab" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_05b9d3229fddf42b643308ac18a51b06" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="dashicons dashicons-shortcode"></i>
 		                		    </div>
@@ -938,7 +938,7 @@
 		        <p> PHP, Javascript, Ajax</p>
 		    </div>
 		</div>
-					<div id="info_block_with_icon_4fe211f5ac3f41cc37bb4f30292d360c" class="info-block-w-icon" data-color="#888">
+					<div id="info_block_with_icon_ef7d4a3c37c7018166d9dd0da726ea96" class="info-block-w-icon" data-color="#888">
 				    <div class="ci-icon">
 		        		        	                        <i class="fa fa-lightbulb-o"></i>
 		                		    </div>
